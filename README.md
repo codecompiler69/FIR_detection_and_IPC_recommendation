@@ -51,10 +51,3 @@ Law enforcement often faces challenges in accurately processing and generating F
 7. **Mobile App Development:**
    - Android Studio for Android app development
    - Flutter for cross-platform app development
-
-## Team Members & Responsibilities
-
-- **Sarthak Khandekar:**
-  - Application Development and Integration
-- **Rajveer Sanghavi:**
-  - ML algorithm development
